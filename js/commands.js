@@ -3,9 +3,9 @@ let linkedin = 'www.linkedin.com/in/madhurboard';
 let github = 'https://github.com/Madhurboard';
 let website = 'https://sameerasw.me/';
 let instagram = 'https://www.instagram.com/simply.madhur/';
-let repo = 'https://github.com/sameerasw/terminal_portfolio';
-let project = 'https://github.com/sameerasw?tab=repositories';
-let project_site = "https://sameerasw.me/#portfolio"
+let repo = 'hhttps://github.com/Madhurboard/terminal_portfolio';
+let project = 'https://github.com/Madhurboard?tab=repositories';
+let project_site = ""
 let existCommands = [
   'about',
   'banner',
